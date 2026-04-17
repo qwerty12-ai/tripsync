@@ -1,0 +1,122 @@
+# ✈️ TripSync – Smart Travel Planning Platform
+
+<p align="center">
+  Plan smarter. Travel better.
+</p>
+
+<p align="center">
+  A full-stack travel planning system to organize trips, manage itineraries, and collaborate seamlessly.
+</p>
+
+---
+
+## 🚀 Live Preview
+> *(Add deployed link here later)*  
+🔗 Live App: https://your-link.com  
+
+---
+
+## 📸 Screenshots
+
+| ![]() | ![](link2) |
+
+| Trip View | Activities |
+|----------|-----------|
+| ![](link3) | ![](link4) |
+
+---
+
+## ✨ Features
+
+- 🔐 Secure User Authentication  
+- 🧳 Trip Creation & Management  
+- 📍 Destination Structuring  
+- 🗓 Activity Planning  
+- 🔗 Share Trips via Unique Link  
+- ⚡ Real-time UI Updates  
+- ✏️ Full CRUD Operations  
+
+---
+
+## 🧠 Why TripSync?
+
+Most travel planning tools are scattered and unstructured.  
+TripSync introduces a **hierarchical, structured approach**:
+        User → Trip → Destination → Activity  
+
+This ensures:
+- Better clarity  
+- Easier management  
+- Seamless collaboration  
+
+---
+
+## 🧱 Tech Stack
+
+### Frontend
+- React (Hooks)
+- Tailwind CSS
+- Axios  
+
+### Backend
+- Spring Boot
+- REST APIs
+- JPA (Hibernate)  
+
+### Database
+- MySQL  
+
+---
+
+## 🏗️ System Architecture
+
+      Frontend (React) 
+            ↓ 
+    Spring Boot REST API 
+            ↓ 
+      MySQL Database 
+
+---
+
+## ⚙️ Run Locally
+
+### Backend
+cd backend
+mvn spring-boot:run
+
+### Frontend
+cd frontend
+npm install
+npm run dev
+
+---
+
+## 🧪 Testing
+
+- API testing using Postman  
+- Frontend integration testing  
+- Validated both success and failure scenarios  
+
+---
+
+## 📈 Results
+
+TripSync was successfully developed as a full-stack web application demonstrating:
+- Clean architecture  
+- Scalable design  
+- Real-world problem solving  
+
+---
+
+## 🔮 Future Scope
+
+- JWT Authentication  
+- Maps Integration  
+- Real-time Collaboration  
+- Mobile App  
+- AI-based Recommendations  
+
+---
+
+## ⭐ If you like this project
+Give it a star ⭐ on GitHub
