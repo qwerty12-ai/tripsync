@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.logo123456 {
+  border-radius: 20%;
+  border: 1px solid black;
+}

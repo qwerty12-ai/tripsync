@@ -1,0 +1,8 @@
+c# frontend
+frontend/node_modules/
+
+# backend
+backend/target/
+
+# environment variables
+.env
