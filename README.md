@@ -18,16 +18,11 @@
 
 ## 📸 Screenshots
 
-| Home | Dashboard |
-|------|----------|
+
 | ![](./screenshots/Home.png) | ![](./screenshots/dashboard.png) |
 
-| Login | Register |
-|----------|-----------|
 | ![](./screenshots/Login.png) | ![](./screenshots/Register.png) |
 
-| Destinations | Activities |
-|----------|-----------|
 | ![](./screenshots/Destinations.png) | ![](./screenshots/Activities.png) |
 
 ---
