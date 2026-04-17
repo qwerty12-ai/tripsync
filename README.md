@@ -20,15 +20,15 @@
 
 | Home | Dashboard |
 |------|----------|
-| <img src="./screenshots/Home.png" width="300"/> | <img src="./screenshots/dashboard.png" width="300"/> |
+| <img src="./screenshots/Home.png" width="300"/> | <img src="./Screenshots/dashboard.png" width="300"/> |
 
 | Login | Register |
 |------|----------|
-| <img src="./screenshots/Login.png" width="300"/> | <img src="./screenshots/Register.png" width="300"/> |
+| <img src="./Screenshots/Login.png" width="300"/> | <img src="./Screenshots/Register.png" width="300"/> |
 
 | Destinations | Activities |
 |-------------|------------|
-| <img src="./screenshots/Destinations.png" width="300"/> | <img src="./screenshots/Activities.png" width="300"/> |
+| <img src="./Screenshots/Destinations.png" width="300"/> | <img src="./Screenshots/Activities.png" width="300"/> |
 
 ---
 
