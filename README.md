@@ -9,21 +9,20 @@
 </p>
 
 ---
-
-## 🚀 Live Preview
-> *(Add deployed link here later)*  
-🔗 Live App: https://your-link.com  
+<!-- This is a comment -->
+<!-- ## 🚀 Live Preview -->
+<!-- > *(Add deployed link here later)*  -->
+<!-- 🔗 Live App: https://your-link.com  -->
 
 ---
 
 ## 📸 Screenshots
 
-| ![]() | ![](link2) |
-
-| Trip View | Activities |
+| ![](./screenshots/home.png) | ![](./screenshots/dashboard.png) |
 |----------|-----------|
-| ![](link3) | ![](link4) |
-
+| ![](./screenshots/Login.png) | ![](./screenshots/Register.png) |
+|----------|-----------|
+| ![](./screenshots/Destinations.png) | ![](./screenshots/Activities.png) |
 ---
 
 ## ✨ Features
