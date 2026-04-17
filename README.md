@@ -18,12 +18,17 @@
 
 ## 📸 Screenshots
 
+| Home | Dashboard |
+|------|----------|
+| ![](./screenshots/Home.png) | ![](./screenshots/dashboard.png) |
 
-| ![](./Screenshots/Home.png) | ![](./Screenshots/dashboard.png) |
+| Login | Register |
+|------|----------|
+| ![](./screenshots/Login.png) | ![](./screenshots/Register.png) |
 
-| ![](./Screenshots/Login.png) | ![](./Screenshots/Register.png) |
-
-| ![](./Screenshots/Destinations.png) | ![](./Screenshots/Activities.png) |
+| Destinations | Activities |
+|-------------|------------|
+| ![](./screenshots/Destinations.png) | ![](./screenshots/Activities.png) |
 
 ---
 
