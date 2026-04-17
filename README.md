@@ -19,11 +19,11 @@
 ## 📸 Screenshots
 
 
-| ![](./screenshots/Home.png) | ![](./screenshots/dashboard.png) |
+| ![](./Screenshots/Home.png) | ![](./Screenshots/dashboard.png) |
 
-| ![](./screenshots/Login.png) | ![](./screenshots/Register.png) |
+| ![](./Screenshots/Login.png) | ![](./Screenshots/Register.png) |
 
-| ![](./screenshots/Destinations.png) | ![](./screenshots/Activities.png) |
+| ![](./Screenshots/Destinations.png) | ![](./Screenshots/Activities.png) |
 
 ---
 
