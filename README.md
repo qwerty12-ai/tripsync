@@ -14,15 +14,22 @@
 <!-- > *(Add deployed link here later)*  -->
 <!-- 🔗 Live App: https://your-link.com  -->
 
----
+<!-- --- -->
 
 ## 📸 Screenshots
 
-| ![](./screenshots/home.png) | ![](./screenshots/dashboard.png) |
+| Home | Dashboard |
+|------|----------|
+| ![](./screenshots/Home.png) | ![](./screenshots/dashboard.png) |
+
+| Login | Register |
 |----------|-----------|
 | ![](./screenshots/Login.png) | ![](./screenshots/Register.png) |
+
+| Destinations | Activities |
 |----------|-----------|
 | ![](./screenshots/Destinations.png) | ![](./screenshots/Activities.png) |
+
 ---
 
 ## ✨ Features
@@ -80,13 +87,17 @@ This ensures:
 ## ⚙️ Run Locally
 
 ### Backend
+```bash
 cd backend
 mvn spring-boot:run
+```
 
-### Frontend
+### Frontend 
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
 ---
 
