@@ -1,4 +1,4 @@
-# ✈️ TripSync – Smart Travel Planning Platform
+# ✈️ TripSync – Smart Travel Planning Platform 
 
 <p align="center">
   Plan smarter. Travel better.
